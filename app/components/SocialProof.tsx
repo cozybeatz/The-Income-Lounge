@@ -17,7 +17,7 @@ export default function SocialProof() {
           </p>
 
           <div className="grid grid-cols-12 gap-4 md:w-3/4 mx-auto">
-            <div className="col-span-6 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
+            <div className="col-span-12 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
               <Image
                 className="shadow-md"
                 src="/images/reviews/review1.jpg"
@@ -26,7 +26,7 @@ export default function SocialProof() {
                 height={1000}
               />
             </div>
-            <div className="col-span-6 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
+            <div className="col-span-12 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
               <Image
                 className="shadow-md"
                 src="/images/reviews/review2.jpg"
@@ -35,7 +35,7 @@ export default function SocialProof() {
                 height={1000}
               />
             </div>
-            <div className="col-span-6 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
+            <div className="col-span-12 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
               <Image
                 className="shadow-md"
                 src="/images/reviews/review3.jpg"
@@ -44,7 +44,7 @@ export default function SocialProof() {
                 height={1000}
               />
             </div>
-            <div className="col-span-6 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
+            <div className="col-span-12 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
               <Image
                 className="shadow-md"
                 src="/images/reviews/review4.jpg"
@@ -53,7 +53,7 @@ export default function SocialProof() {
                 height={1000}
               />
             </div>
-            <div className="col-span-6 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
+            <div className="col-span-12 md:col-span-4 self-start rounded-lg p-4 text-left border-2 border-gray-600 bg-gray-950 shadow-md hover:border-yellow-500 transition-all cursor-pointer">
               <Image
                 className="shadow-md"
                 src="/images/reviews/review5.jpg"
@@ -62,7 +62,7 @@ export default function SocialProof() {
                 height={1000}
               />
             </div>
-            <div className="col-span-6 md:col-span-4 self-start rounded-lg p-4 text-left">
+            <div className="col-span-12 md:col-span-4 self-start rounded-lg p-4 text-left">
               <p className="text-sm md:text-sm font-semibold text-green-300">
                 + a lot more guys making $5k+ a month...
               </p>
