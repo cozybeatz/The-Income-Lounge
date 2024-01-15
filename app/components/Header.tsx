@@ -21,7 +21,7 @@ export default function Header() {
           </div>
           <h1 className="w-full md:w-3/5 mx-auto font-semibold text-gray-200 text-5xl leading-none tracking-tighter md:text-6xl">
             Are You <span className="text-yellow-400">Wasting Time</span> On
-            Courses & Mentorships. Wait?
+            Courses & Mentorships? Wait
           </h1>
           <p className="w-full md:mx-auto md:w-2/3 text-gray-300 font-light text-lg">
             People like you are making $20,0000/month from all over the world
